@@ -1,4 +1,4 @@
-<a href="#" style="cursor: default"><img src="https://cloud.githubusercontent.com/assets/706123/22316252/0aeb7c14-e33a-11e6-8c61-fa8d83124fbb.png" style="width: 300px"/></a>
+<a href="#" style="cursor: default"><img src="https://cloud.githubusercontent.com/assets/706123/22316252/0aeb7c14-e33a-11e6-8c61-fa8d83124fbb.png" width="300"/></a>
 
 # Cryptoeconomics
 It is difficult to find resources on cryptoeconomics. Most of the people who are expert
