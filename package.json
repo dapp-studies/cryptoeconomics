@@ -1,0 +1,21 @@
+{
+  "name": "cryptoeconomics",
+  "version": "1.0.0",
+  "description": "A collection of 🔥 resources & research on cryptoeconomics",
+  "dependencies": {
+    "gitbook-cli": "^2.3.0"
+  },
+  "scripts": {
+    "preinstall": "gitbook install",
+    "start": "gitbook serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dapp-studies/cryptoeconomics.git"
+  },
+  "keywords": [
+    "cryptoeconomics"
+  ],
+  "author": "",
+  "license": "MIT"
+}
