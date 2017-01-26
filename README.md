@@ -7,3 +7,5 @@ are too busy to write much of it down! This repo should help out a bit.
 #### Some goals:
 1. Serve as a list of resources & information on cryptoeconomics
 2. Provide a space where crypto projects can be rigorously analyzed
+
+# [Read online on GitBook](https://dapp-studies.gitbooks.io/cryptoeconomics/content/)
