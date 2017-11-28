@@ -8,6 +8,9 @@ This file contains a list of resources of all types. Please add anything that's 
 - [Cryptoeconomic Protocols In the Context of Wider Society-Vitalik Buterin](https://www.youtube.com/watch?v=S47iWiKKvLA)
   - Begins with Vitalik going over basic game theory concepts
   - Ends with game theoretic analysis of some smart contracts / crypto systems
+- [Programmable Incentives: Intro to Cryptoeconomics-Karl Floersch](https://www.youtube.com/watch?v=-alrVUv6E24&t=554s)
+  - Basic framework for how to start projects which use Ethereum & cryptoeconomics
+  - Ethecial implications of cryptoeconomics
 
 ## Papers
 ...
