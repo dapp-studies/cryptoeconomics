@@ -8,4 +8,6 @@ are too busy to write much of it down! This repo should help out a bit.
 1. Serve as a list of resources & information on cryptoeconomics
 2. Provide a space where crypto projects can be rigorously analyzed
 
+### For the latest materials on Cryptoeconomics, check out https://cryptoeconomics.study ! 
+
 # [Read online on GitBook](https://dapp-studies.gitbooks.io/cryptoeconomics/content/)
